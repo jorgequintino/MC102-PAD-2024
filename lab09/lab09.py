@@ -2,7 +2,7 @@
 # MC102 - Algoritmos e Programação de Computadores
 # Laboratório 9 - Anonimizador de Texto
 # nome: Jorge Felipe Lopes Pereira
-# RA: 251771
+# RA:
 ###################################################
 
 def nomes(pessoa, textoanonimizado, anonimizados, chave, i):

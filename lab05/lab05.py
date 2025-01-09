@@ -2,7 +2,7 @@
 # MC102 - Algoritmos e Programação de Computadores
 # Laboratório 5 - Dados da Sorte
 # Nome: Jorge Felipe Lopes Pereira
-# RA: 251771
+# RA:
 ###################################################
 
 # Leitura da entrada de dados

@@ -2,7 +2,7 @@
 # MC102 - Algoritmos e Programação de Computadores
 # Laboratório 06 - Espectativa de Vendas Mensais
 # Nome: Jorge Felipe Lopes Pereira 
-# RA: 251771
+# RA:
 ###################################################
 
 # Leitura da quantidade de meses e os valores de vendas mensais

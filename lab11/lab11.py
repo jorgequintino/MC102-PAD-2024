@@ -2,7 +2,7 @@
 # MC102 - Algoritmos e Programação de Computadores
 # Laboratório 11 - Níveis de Radiação
 # Nome: Jorge Felipe Lopes Pereira
-# RA: 251771
+# RA:
 ###################################################
 
 def criarterreno(linhas, colunas, coordlinha, coordcoluna, radiacao):

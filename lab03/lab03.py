@@ -2,7 +2,7 @@
 # MC102 - Algoritmos e Programação de Computadores
 # Laboratório 3 - Cupons de Desconto
 # Nome: Jorge Felipe Lopes Pereira
-# RA: 251771
+# RA:
 ###################################################
 
 # leitura de dados

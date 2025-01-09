@@ -1,0 +1,18 @@
+CGCGTATGAT c1
+mostrar
+remover 0 7
+mostrar
+buscar TA
+inserir ATATATGCT 0
+mostrar
+buscar TA
+inserir TAGCT 11
+mostrar
+buscar TA
+inserir AAAAAACCCCCCCCGGGGGGGGTTTTTT 0
+remover 28 44
+mostrar
+reverter 22 13
+mostrar
+buscar GGCC
+sair

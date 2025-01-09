@@ -1,0 +1,16 @@
+Cliente: Olá! Estou precisando comprar um presente de aniversário para minha mãe. Vocês têm sugestões de produtos em promoção?
+Atendente: Olá! Claro, temos várias opções disponíveis. Que tipo de presente sua mãe gosta?
+Cliente: Ela adora acessórios de moda, especialmente bolsas. Tem algum modelo em oferta?
+Atendente: Temos uma linda coleção de bolsas de couro em promoção. Recomendaria o modelo Bella, que está com 30% de desconto.
+Cliente: Excelente! Vou querer comprar. Como procedo?
+Atendente: Para prosseguir com o pedido, precisaremos de algumas informações. Poderia fornecer seu CPF, por favor?
+Cliente: Claro, meu CPF é cpf:1.
+Atendente: Obrigado. E poderia confirmar seu nome completo e e-mail para registro do pedido?
+Cliente: Meu nome é nome:2 e meu e-mail é email:3.
+Atendente: Perfeito, nome:2. Agora, para o envio do presente, precisaremos do endereço da sua mãe. Poderia fornecer?
+Cliente: Sim, o endereço é nome:4, 123, nome:5, nome:6. CEP: 12345-678.
+Atendente: Ótimo, obrigado pela informação. E o CPF e nome completo da sua mãe para a entrega?
+Cliente: O nome dela é nome:7 e o CPF é cpf:8.
+Atendente: Entendido, nome:2. Seu pedido foi registrado com sucesso. Você receberá um e-mail de confirmação em breve, e o presente será enviado para sua mãe, nome:7, no endereço fornecido. Alguma outra coisa que posso ajudar?
+Cliente: Não, está tudo certo. Muito obrigada pela ajuda!
+Atendente: Por nada, nome:2. Espero que sua mãe goste do presente. Qualquer dúvida adicional, estou à disposição. Tenha um ótimo dia!

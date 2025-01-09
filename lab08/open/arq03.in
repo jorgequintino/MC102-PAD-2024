@@ -1,0 +1,14 @@
+TAGTCGTGTAGTGCTGTAGATGTGCTGTGTAGACGTCGTCGTGTCTCG
+mostrar
+inserir CTAG 3
+mostrar
+buscar TCGT
+buscar TAG
+inserir TCGTCGTC 1
+mostrar
+buscar TAG
+buscar TGCTG
+inserir TGC 60
+mostrar
+buscar TGCTG
+sair
